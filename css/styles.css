@@ -1,0 +1,25 @@
+body{
+    background-color: #DBE2EF;
+}
+
+hr{
+    width: 50px;
+    background-color: #DBE2EF;
+    border-top: 5px gray dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none
+}
+
+h1{
+    color: darkblue;
+    font-family:sans-serif;
+}
+
+h2{
+    color: darkblue;
+}
+
+h3{
+    color: darkblue;
+}
